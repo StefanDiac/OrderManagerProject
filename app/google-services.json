@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "651588764951",
+    "firebase_url": "https://ordermanager-184519.firebaseio.com",
+    "project_id": "ordermanager-184519",
+    "storage_bucket": "ordermanager-184519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651588764951:android:3fc17262a5e74330",
+        "android_client_info": {
+          "package_name": "com.example.air_book.ordermanagerproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651588764951-g1ua6h6crmpm270m5d437dttjdtvigbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCbjPMXnLu7_cYNHKNFWK2MwfaVXBHA2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

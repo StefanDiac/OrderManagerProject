@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Order Manager</string>
+    <string name="title_activity_restaurant_location">Map</string>
+</resources>
